@@ -36,21 +36,35 @@ File Receive Successfully
 **Test cd command:**
 -
 Enter Choice :
+
 cd
+
 Back to parent directory?  y/n?n
+
 Enter directory path :newdir
+
 Directory changed
 
 **Test list command:**
 -
 Enter Choice :
+
 list
+
 Files and Folders listed in current path are:
+
 .classpath
+
 .project
+
 CD
+
 FTPServer.class
+
 FTPServer.java
+
 ftptext.txt
+
 newdir
+
 transferfile.class
