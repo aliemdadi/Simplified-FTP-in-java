@@ -6,3 +6,47 @@
 from bufferreader, and server read commands and call our function!
 6 .in other functions sth like 5 happen
  
+Test ret command:
+
+[ MENU ]
+cd for changing directory
+ret for retrieve
+list for listing files an folders exists in current path
+exit for close connection
+
+Enter Choice :
+ret
+Enter File Name :ftptext.txt
+Receiving File ...
+File Receive Successfully
+
+
+Test cd command:
+
+Enter Choice :
+cd
+Back to parent directory?  y/n?n
+Enter directory path :newdir
+Directory changed
+
+
+
+Test list command:
+
+[ MENU ]
+cd for changing directory
+ret for retrieve
+list for listing files an folders exists in current path
+exit for close connection
+
+Enter Choice :
+list
+Files and Folders listed in current path are:
+.classpath
+.project
+CD
+FTPServer.class
+FTPServer.java
+ftptext.txt
+newdir
+transferfile.class
