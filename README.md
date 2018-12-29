@@ -31,11 +31,10 @@ Enter File Name :ftptext.txt
 Receiving File ...
 
 File Receive Successfully
-
-
-
-
-
+ 
+ 
+  
+ 
 **Test cd command:**
 
 Enter Choice :
@@ -44,10 +43,10 @@ Back to parent directory?  y/n?n
 Enter directory path :newdir
 Directory changed
 
+ 
 
-
-
-
+  
+ 
 **Test list command:**
 
 Enter Choice :
