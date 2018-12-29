@@ -15,14 +15,23 @@ from bufferreader, and server read commands and call our function!
 
 [ MENU ]
 cd for changing directory
+
 ret for retrieve
+
 list for listing files an folders exists in current path
+
 exit for close connection
+
 Enter Choice :
+
 ret
+
 Enter File Name :ftptext.txt
+
 Receiving File ...
+
 File Receive Successfully
+
 
 
 **Test cd command:**
