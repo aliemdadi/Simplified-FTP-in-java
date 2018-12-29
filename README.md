@@ -11,7 +11,7 @@ Simplified FTP . commands : list ,cd(change directory ) , ret (retrieve) in java
 from bufferreader, and server read commands and call our function!
 6. in other functions sth like 5 happen
  
-**Test ret command:**
+-**Test ret command:**
 
 [ MENU ]
 cd for changing directory
@@ -31,23 +31,17 @@ Enter File Name :ftptext.txt
 Receiving File ...
 
 File Receive Successfully
- -
- -
--  
- -
-**Test cd command:**
+ 
+ 
+-**Test cd command:**
 
 Enter Choice :
 cd
 Back to parent directory?  y/n?n
 Enter directory path :newdir
 Directory changed
--
- 
--
--  
--
-**Test list command:**
+
+-**Test list command:**
 
 Enter Choice :
 list
