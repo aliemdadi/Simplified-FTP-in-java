@@ -18,7 +18,6 @@ cd for changing directory
 ret for retrieve
 list for listing files an folders exists in current path
 exit for close connection
-
 Enter Choice :
 ret
 Enter File Name :ftptext.txt
@@ -37,12 +36,6 @@ Directory changed
 
 
 **Test list command:**
-
-[ MENU ]
-cd for changing directory
-ret for retrieve
-list for listing files an folders exists in current path
-exit for close connection
 
 Enter Choice :
 list
